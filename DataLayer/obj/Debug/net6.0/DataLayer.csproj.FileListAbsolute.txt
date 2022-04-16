@@ -1,0 +1,12 @@
+D:\git_repos\WebApi\Authentication\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+D:\git_repos\WebApi\Authentication\DataLayer\bin\Debug\net6.0\DataLayer.dll
+D:\git_repos\WebApi\Authentication\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\git_repos\WebApi\Authentication\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\git_repos\WebApi\Authentication\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_repos\WebApi\Authentication\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\git_repos\WebApi\Authentication\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+D:\git_repos\WebApi\Authentication\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\git_repos\WebApi\Authentication\DataLayer\obj\Debug\net6.0\DataLayer.dll
+D:\git_repos\WebApi\Authentication\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+D:\git_repos\WebApi\Authentication\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+D:\git_repos\WebApi\Authentication\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll

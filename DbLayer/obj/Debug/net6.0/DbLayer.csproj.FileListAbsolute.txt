@@ -1,0 +1,12 @@
+D:\git_repos\WebApi\Authentication\DbLayer\bin\Debug\net6.0\DbLayer.deps.json
+D:\git_repos\WebApi\Authentication\DbLayer\bin\Debug\net6.0\DbLayer.dll
+D:\git_repos\WebApi\Authentication\DbLayer\bin\Debug\net6.0\DbLayer.pdb
+D:\git_repos\WebApi\Authentication\DbLayer\obj\Debug\net6.0\DbLayer.csproj.AssemblyReference.cache
+D:\git_repos\WebApi\Authentication\DbLayer\obj\Debug\net6.0\DbLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_repos\WebApi\Authentication\DbLayer\obj\Debug\net6.0\DbLayer.AssemblyInfoInputs.cache
+D:\git_repos\WebApi\Authentication\DbLayer\obj\Debug\net6.0\DbLayer.AssemblyInfo.cs
+D:\git_repos\WebApi\Authentication\DbLayer\obj\Debug\net6.0\DbLayer.csproj.CoreCompileInputs.cache
+D:\git_repos\WebApi\Authentication\DbLayer\obj\Debug\net6.0\DbLayer.dll
+D:\git_repos\WebApi\Authentication\DbLayer\obj\Debug\net6.0\refint\DbLayer.dll
+D:\git_repos\WebApi\Authentication\DbLayer\obj\Debug\net6.0\DbLayer.pdb
+D:\git_repos\WebApi\Authentication\DbLayer\obj\Debug\net6.0\ref\DbLayer.dll
